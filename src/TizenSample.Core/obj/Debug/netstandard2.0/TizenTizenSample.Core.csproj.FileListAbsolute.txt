@@ -1,0 +1,4 @@
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\tpkroot\bin\TizenSample.Core.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\tpkroot\bin\TizenSample.Core.pdb
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\tpkroot\TizenSample.Core.deps.json
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\-.tpk

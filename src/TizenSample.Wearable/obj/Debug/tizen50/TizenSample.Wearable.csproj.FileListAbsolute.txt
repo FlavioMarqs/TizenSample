@@ -1,0 +1,12 @@
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\bin\Debug\tizen50\TizenSample.Wearable.deps.json
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\bin\Debug\tizen50\TizenSample.Wearable.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\bin\Debug\tizen50\TizenSample.Wearable.pdb
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\TizenSample.Wearable.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\App.xaml.g.cs
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\MainPage.xaml.g.cs
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\TizenSample.Wearable.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\TizenSample.Wearable.AssemblyInfo.cs
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\TizenSample.Wearable.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\XamlC.stamp
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\TizenSample.Wearable.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Wearable\obj\Debug\tizen50\TizenSample.Wearable.pdb

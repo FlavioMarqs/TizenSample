@@ -1,0 +1,9 @@
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\TizenSample.Core.deps.json
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\TizenSample.Core.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\bin\Debug\netstandard2.0\TizenSample.Core.pdb
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\obj\Debug\netstandard2.0\TizenSample.Core.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\obj\Debug\netstandard2.0\TizenSample.Core.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\obj\Debug\netstandard2.0\TizenSample.Core.AssemblyInfo.cs
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\obj\Debug\netstandard2.0\TizenSample.Core.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\obj\Debug\netstandard2.0\TizenSample.Core.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Core\obj\Debug\netstandard2.0\TizenSample.Core.pdb

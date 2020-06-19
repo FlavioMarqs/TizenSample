@@ -1,0 +1,14 @@
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Phone.deps.json
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Phone.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Phone.pdb
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Core.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Wearable.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Core.pdb
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\bin\Debug\tizen50\TizenSample.Wearable.pdb
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.AssemblyInfo.cs
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.csproj.CopyComplete
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.dll
+C:\Users\dev\source\repos\TizenSample\src\TizenSample.Phone\TizenSample.Phone\obj\Debug\tizen50\TizenSample.Phone.pdb

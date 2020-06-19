@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/SX5pQHu2P/dJfoW5J0cIzs2vkcfqbzo71so4JPT7gVa73PkT47j46ja6JgJYuHwTwY5CvE4d40RvJXrlimZng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\source\\repos\\TizenSample\\src\\TizenSample.Core\\TizenSample.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
